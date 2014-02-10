@@ -26,6 +26,7 @@
     "node_modules",
     "bower_components",
     "assets/js/lib",
+    "dist/css",
     "test",
     "tests"
   ],
