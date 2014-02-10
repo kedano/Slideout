@@ -28,3 +28,7 @@ node_modules
 
 # Ignore Rendered CSS folder
 dist/css
+
+
+# Ignore JS library
+assets/js/lib
