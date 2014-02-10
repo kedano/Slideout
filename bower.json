@@ -1,0 +1,36 @@
+{
+  "name": "Slideout-navigation",
+  "version": "0.0.0",
+  "homepage": "https://github.com/okb/Slideout",
+  "authors": [
+    "Kenneth Dahlstrøm <kenneth@keda.no>"
+  ],
+  "description": "Example project for a slideout navigation",
+  "main": [
+    ".dist/less/components/_component_navigation.less",
+    ".dist/less/slideout-navigation.less",
+    ".dist/js/slideout-navigation.js",
+    ".dist/images/icons/icon-list.svg",
+    ".dist/images/icons/icon-user.svg",
+  ],
+  "keywords": [
+    "slideout",
+    "navigation",
+    "css",
+    "mobile",
+    "ui"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "assets/js/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "modernizr": "~2.7.1",
+    "jquery": "~2.1.0"
+  }
+}
