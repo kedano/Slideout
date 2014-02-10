@@ -1,2 +1,30 @@
+
+
+
+# OSX
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+# Folder config file
+Desktop.ini
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+
+
+#-----   Project ignores   ---------------------------
+
 # Ignore node modules
 node_modules
+
+# Ignore build folder
+build
