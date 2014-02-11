@@ -30,5 +30,5 @@ node_modules
 dist/css
 
 
-# Ignore JS library
-assets/js/lib
+# Ignore vendor code (from bower)
+vendor
