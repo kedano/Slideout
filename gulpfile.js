@@ -26,7 +26,7 @@ gulp.task('less', function() {
 // Scripts tasks
 
 gulp.task('scripts', function() {
-    gulp.src('./assets/js/**/*.js')
+    gulp.src('./assets/js/*.js')
         .pipe(gulp.dest('dist/js/'));
 });
 
