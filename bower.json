@@ -11,7 +11,7 @@
     ".dist/less/slideout-navigation.less",
     ".dist/js/slideout-navigation.js",
     ".dist/images/icons/icon-list.svg",
-    ".dist/images/icons/icon-user.svg",
+    ".dist/images/icons/icon-user.svg"
   ],
   "keywords": [
     "slideout",
@@ -25,13 +25,12 @@
     "**/.*",
     "node_modules",
     "bower_components",
-    "assets/js/lib",
+    "vendor",
     "dist/css",
     "test",
     "tests"
   ],
   "dependencies": {
-    "modernizr": "~2.7.1",
     "jquery": "~2.1.0"
   }
 }
