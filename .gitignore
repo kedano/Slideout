@@ -27,8 +27,8 @@ $RECYCLE.BIN/
 node_modules
 
 # Ignore Rendered CSS folder
-dist/css
+# dist/css // not ignored on okb.github.io/Slideout
 
 
 # Ignore vendor code (from bower)
-vendor
+# vendor // not ignored on okb.github.io/Slideout
