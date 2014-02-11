@@ -47,6 +47,7 @@ gulp.task('clean', function() {
 
 // Prod task
 gulp.task('prod', ['clean'], function() {
+    gulp.run('styles');
     gulp.run('less');
     gulp.run('scripts');
     gulp.run('icons');
