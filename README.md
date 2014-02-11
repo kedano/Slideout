@@ -1,8 +1,11 @@
 Slideout
 ========
 
-Slideout navigation with CSS3 and JavaScript
+Slideout navigation with CSS3 and JavaScript.
 
+## Demo
+
+[Demo of the plugin](http://okb.github.io/Slideout/).
 
 
 ## Install
@@ -11,9 +14,6 @@ Install <a href="http://nodejs.org">Node.js</a> if you haven't done that already
 
     $ npm install
     $ bower install
-
-
-
 
 
 ## Usage
