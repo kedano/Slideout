@@ -26,9 +26,5 @@ $RECYCLE.BIN/
 # Ignore node modules
 node_modules
 
-# Ignore Rendered CSS folder
-dist/css
-
-
 # Ignore vendor code (from bower)
 vendor
