@@ -32,6 +32,8 @@
   ],
   "dependencies": {
     "modernizr": "~2.7.1",
-    "jquery": "~2.1.0"
+    "jquery": "~2.1.0",
+    "reset-css": "~2.0.20110126",
+    "lessline": "~1.2.0"
   }
 }
